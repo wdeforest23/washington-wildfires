@@ -1,8 +1,6 @@
-# 🔥🌊 Climate Risk Explorer – Washington State
+# 🔥 Washington State Wildfire Risk Explorer
 
-**A climate risk dashboard for Washington State communities, powered by ClimRR, BigQuery, and Natural Language AI.**
-
-![banner image or gif if available]
+**A climate risk dashboard for Washington State communities, powered by ClimRR, BigQuery, and NLP.**
 
 ## 🚀 Project Overview
 
